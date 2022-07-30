@@ -37,4 +37,3 @@ while True:
                         pyautogui.moveTo(index_x, index_y)
     cv2.imshow('Virtual Mouse', frame)
     cv2.waitKey(1)
-Footer
